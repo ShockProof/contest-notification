@@ -1,0 +1,6 @@
+{
+    "name": "Contest Notification",
+    "version": "1.0",
+    "description": "Give notification about programming contests",
+    "manifest_version": 2
+  }
